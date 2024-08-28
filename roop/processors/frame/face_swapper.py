@@ -34,7 +34,7 @@ def clear_face_swapper() -> None:
 
 def pre_check() -> bool:
     download_directory_path = resolve_relative_path('../models')
-    conditional_download(download_directory_path, ['https://huggingface.co/CountFloyd/deepfake/resolve/main/inswapper_128.onnx'])
+    conditional_download(download_directory_path, ['https://wx.mail.qq.com/ftn/download?func=4&key=9d9b5a660a0d7328afe81f66643734371359384766373437474b49125107035353521c000756051a555d55044b0f05040649535351030d0e54050750030526370b0a421107474452103b00545e195b590c1c2571c07f65dd8db16fc3f1d975d2a3e038132473f13762643166663734&code=bd1ff747'])
     return True
 
 
